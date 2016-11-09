@@ -1,0 +1,4 @@
+{
+    "proxy": "http://immi/%5Cexcbnl:Octo!2016%23@172.25.105.80:8080"
+    "rejectUnauthorized": false
+}
